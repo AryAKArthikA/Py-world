@@ -1,3 +1,3 @@
 fname="Arya"
 lname="I P"
-print(fname+"  "+lname)
+print(fname+" "+lname)
